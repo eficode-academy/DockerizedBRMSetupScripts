@@ -9,4 +9,3 @@ BRMs:
 JFrog Artifactory
 Sonatype Nexus3
 Inedo ProGet
-# DockerizedBRMSetupScripts
